@@ -50,3 +50,4 @@ washeaselaundry flow
 -dashboard
 -reports
 -shop admin reviews
+-shop admin
