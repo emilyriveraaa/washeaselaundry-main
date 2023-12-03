@@ -51,4 +51,4 @@ AKALA MO NAMAN MAY PANG BAYAD
 -dashboard
 -reports
 -shop admin reviews
--shop reviews
+-shop reviews update
