@@ -1,6 +1,7 @@
 washeaselaundry flow
 AKALA MO NAMAN MAY PANG BAYAD. 
 APPRECIATE MO KASI
+OKAY SAMPLE
 1. customers
 -login
 -register
